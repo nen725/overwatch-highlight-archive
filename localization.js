@@ -1,0 +1,4 @@
+// Names used by the mainland Chinese client; unknown future heroes retain API names.
+const names={ana:'安娜',anran:'安燃',ashe:'艾什',baptiste:'巴蒂斯特',bastion:'堡垒',brigitte:'布丽吉塔',cassidy:'卡西迪',doomfist:'末日铁拳',dva:'D.Va',echo:'回声',freja:'弗蕾娅',genji:'源氏',hanzo:'半藏',hazard:'骇灾',illari:'伊拉锐','junker-queen':'渣客女王',junkrat:'狂鼠',juno:'朱诺',kiriko:'雾子',lifeweaver:'生命之梭',lucio:'卢西奥',mauga:'毛加',mei:'美',mercy:'天使',moira:'莫伊拉',orisa:'奥丽莎',pharah:'法老之鹰',ramattra:'拉玛刹',reaper:'死神',reinhardt:'莱因哈特',roadhog:'路霸',sigma:'西格玛',sojourn:'索杰恩','soldier-76':'士兵：76',sombra:'黑影',symmetra:'秩序之光',torbjorn:'托比昂',tracer:'猎空',venture:'探奇',widowmaker:'黑百合',winston:'温斯顿','wrecking-ball':'破坏球',wuyang:'无漾',zarya:'查莉娅',zenyatta:'禅雅塔'};
+function localize(heroes){return heroes.map(h=>({...h,englishName:h.englishName||h.name,name:names[h.key]||h.name}));}
+module.exports={localize};

@@ -1,0 +1,326 @@
+[
+  {
+    "key": "doctrine",
+    "name": "血律",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260930/1790752017353_29beb11aa6.png"
+  },
+  {
+    "key": "dmon",
+    "name": "D.Mon",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260806/1786022282273_a597b92ce5.png"
+  },
+  {
+    "key": "shion",
+    "name": "死怨",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260612/1781246423382_b7df5f662a.png"
+  },
+  {
+    "key": "sierra",
+    "name": "西拉",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260414/1776168411922_fcd14bee26.png"
+  },
+  {
+    "key": "anran",
+    "name": "安燃",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260415/1776235043486_7600582524.png"
+  },
+  {
+    "key": "emre",
+    "name": "埃姆雷",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260227/1772161166550_8d155e68a4.png"
+  },
+  {
+    "key": "jetpack-cat",
+    "name": "飞天猫",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260227/1772161166572_520bd4f944.png"
+  },
+  {
+    "key": "mizuki",
+    "name": "瑞稀",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260227/1772161166513_c40437c565.png"
+  },
+  {
+    "key": "domina",
+    "name": "金驭",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260227/1772161166536_5e611d4fb0.png"
+  },
+  {
+    "key": "vendetta",
+    "name": "斩仇",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770343474061_811025e090.png"
+  },
+  {
+    "key": "wuyang",
+    "name": "无漾",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770343573582_31ebd32f84.png"
+  },
+  {
+    "key": "freja",
+    "name": "弗蕾娅",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770343601631_494945c57e.png"
+  },
+  {
+    "key": "ashe",
+    "name": "艾什",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770343684623_511e9831c9.png"
+  },
+  {
+    "key": "ana",
+    "name": "安娜",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770343745482_5dbfa340a7.png"
+  },
+  {
+    "key": "orisa",
+    "name": "奥丽莎",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770343784176_7bb7b4361b.png"
+  },
+  {
+    "key": "baptiste",
+    "name": "巴蒂斯特",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770343853300_2996f20a85.png"
+  },
+  {
+    "key": "hanzo",
+    "name": "半藏",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770343861928_8e06207e8c.png"
+  },
+  {
+    "key": "bastion",
+    "name": "堡垒",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770343871550_ed901efbf9.png"
+  },
+  {
+    "key": "brigitte",
+    "name": "布丽吉塔",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770343880840_118a29132b.png"
+  },
+  {
+    "key": "zarya",
+    "name": "查莉娅",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344000592_a122b6548c.png"
+  },
+  {
+    "key": "zenyatta",
+    "name": "禅雅塔",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344038417_8e127ae379.png"
+  },
+  {
+    "key": "dva",
+    "name": "D.VA",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344106986_1e81a16aa9.png"
+  },
+  {
+    "key": "pharah",
+    "name": "法老之鹰",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344234870_aeffaf7b79.png"
+  },
+  {
+    "key": "widowmaker",
+    "name": "黑百合",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344265598_9d3c296b05.png"
+  },
+  {
+    "key": "sombra",
+    "name": "黑影",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344279611_1ec099c6b9.png"
+  },
+  {
+    "key": "hazard",
+    "name": "骇灾",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344361158_af8f9502b5.png"
+  },
+  {
+    "key": "echo",
+    "name": "回声",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344410244_9d7a9f01b9.png"
+  },
+  {
+    "key": "cassidy",
+    "name": "卡西迪",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344420636_f5b9d814cb.png"
+  },
+  {
+    "key": "junkrat",
+    "name": "狂鼠",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344518471_6694640983.png"
+  },
+  {
+    "key": "ramattra",
+    "name": "拉玛刹",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344559514_30c8544a58.png"
+  },
+  {
+    "key": "reinhardt",
+    "name": "莱因哈特",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344568581_13339bc21d.png"
+  },
+  {
+    "key": "tracer",
+    "name": "猎空",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344756601_230a35bbfe.png"
+  },
+  {
+    "key": "lucio",
+    "name": "卢西奥",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344795972_a27d8b1835.png"
+  },
+  {
+    "key": "roadhog",
+    "name": "路霸",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344835007_e476db0de0.png"
+  },
+  {
+    "key": "mauga",
+    "name": "毛加",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344848735_c1b6e8680d.png"
+  },
+  {
+    "key": "mei",
+    "name": "美",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344861505_65a04d4ba8.png"
+  },
+  {
+    "key": "doomfist",
+    "name": "末日铁拳",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344956007_530e01e386.png"
+  },
+  {
+    "key": "moira",
+    "name": "莫伊拉",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770344990351_7b059cede4.png"
+  },
+  {
+    "key": "wrecking-ball",
+    "name": "破坏球",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345057916_a09a61f8c4.png"
+  },
+  {
+    "key": "lifeweaver",
+    "name": "生命之梭",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345065664_ef5a73e847.png"
+  },
+  {
+    "key": "soldier-76",
+    "name": "士兵：76",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345086338_589415f7c4.png"
+  },
+  {
+    "key": "reaper",
+    "name": "死神",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345147228_7d7063ea61.png"
+  },
+  {
+    "key": "sojourn",
+    "name": "索杰恩",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345212218_19a8ef85cc.png"
+  },
+  {
+    "key": "venture",
+    "name": "探奇",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345321595_01c8267e25.png"
+  },
+  {
+    "key": "mercy",
+    "name": "天使",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345331108_df768a20f2.png"
+  },
+  {
+    "key": "torbjorn",
+    "name": "托比昂",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345516431_b4e4a3db29.png"
+  },
+  {
+    "key": "winston",
+    "name": "温斯顿",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345555277_72d8324dc1.png"
+  },
+  {
+    "key": "kiriko",
+    "name": "雾子",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345609610_ac79cb89fb.png"
+  },
+  {
+    "key": "sigma",
+    "name": "西格玛",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345683902_9072d3014c.png"
+  },
+  {
+    "key": "illari",
+    "name": "伊拉锐",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345720108_25aa5687e0.png"
+  },
+  {
+    "key": "genji",
+    "name": "源氏",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345730149_8a4eb79474.png"
+  },
+  {
+    "key": "junker-queen",
+    "name": "渣客女王",
+    "role": "tank",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345799934_839573accf.png"
+  },
+  {
+    "key": "symmetra",
+    "name": "秩序之光",
+    "role": "damage",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345867640_419b4c28b6.png"
+  },
+  {
+    "key": "juno",
+    "name": "朱诺",
+    "role": "support",
+    "portrait": "https://ld5.res.netease.com/images/20260206/1770345880148_104d05c5ac.png"
+  }
+]

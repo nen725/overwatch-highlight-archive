@@ -1,0 +1,85 @@
+{
+  "name": "overwatch-highlights-manager",
+  "version": "1.2.0",
+  "private": true,
+  "description": "守望高光档案 · Overwatch Highlight Archive",
+  "author": "nen725",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "check": "node --check main.js && node --check renderer.js && node --test tests/*.test.js",
+    "pack": "electron-builder --win nsis portable --x64"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^5.2.0",
+    "ffprobe-static": "^3.1.0"
+  },
+  "devDependencies": {
+    "electron": "39.8.10",
+    "electron-builder": "26.18.0",
+    "playwright-core": "^1.57.0"
+  },
+  "build": {
+    "appId": "local.overwatch.highlights",
+    "productName": "守望高光档案",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "*.js",
+      "*.html",
+      "*.css",
+      "*.md",
+      "!node_modules/ffprobe-static/bin/darwin/**",
+      "!node_modules/ffprobe-static/bin/linux/**",
+      "!node_modules/ffprobe-static/bin/win32/ia32/**",
+      "assets/**/*",
+      "package.json"
+    ],
+    "asarUnpack": [
+      "node_modules/ffmpeg-static/**",
+      "node_modules/ffprobe-static/**"
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "icon": "assets/app-icon.ico",
+      "signAndEditExecutable": true,
+      "signExecutable": false
+    },
+    "portable": {
+      "artifactName": "OverwatchHighlightArchive-Portable-${version}-x64.exe"
+    },
+    "nsis": {
+      "artifactName": "OverwatchHighlightArchive-Setup-${version}-x64.exe",
+      "oneClick": false,
+      "perMachine": false,
+      "allowElevation": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "守望高光档案",
+      "installerIcon": "assets/app-icon.ico",
+      "uninstallerIcon": "assets/app-icon.ico",
+      "deleteAppDataOnUninstall": false,
+      "displayLanguageSelector": true,
+      "installerLanguages": [
+        "zh_CN",
+        "en_US",
+        "ja_JP",
+        "ko_KR"
+      ],
+      "runAfterFinish": true
+    }
+  },
+  "homepage": "https://github.com/nen725/overwatch-highlight-archive",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nen725/overwatch-highlight-archive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nen725/overwatch-highlight-archive/issues"
+  }
+}

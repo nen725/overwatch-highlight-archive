@@ -66,4 +66,3 @@ npm run pack
 ## 资料与声明
 
 英雄资料优先来自[守望先锋国服官网](https://ow.blizzard.cn/heroes/)，备用与多语言名称来自 [OverFast API](https://overfast-api.tekrop.fr/)。这是非官方社区工具，与 Blizzard Entertainment 无关联；守望先锋名称、角色及肖像归各权利人所有。第三方组件与来源见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
-
