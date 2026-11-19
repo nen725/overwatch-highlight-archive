@@ -5,11 +5,10 @@
   "description": "守望高光档案 · Overwatch Highlight Archive",
   "author": "nen725",
   "main": "main.js",
-    "scripts": {
+  "scripts": {
     "start": "electron .",
     "check": "node --check main.js && node --check renderer.js && node --test tests/*.test.js",
--   "pack": "electron-builder --win nsis portable --x64"
-+   "pack": "electron-builder --win nsis portable --x64 --publish onTag"
+    "pack": "electron-builder --win nsis portable --x64 --publish onTag"
   },
   "dependencies": {
     "ffmpeg-static": "^5.2.0",
@@ -53,8 +52,8 @@
     "portable": {
       "artifactName": "OverwatchHighlightArchive-Portable-${version}-x64.exe"
     },
-       "nsis": {
-      "artifactName": "OverwatchHighlightArchive-Setup-${version}-x64.exe",
+    "nsis": {
+      "artifactName": "OverwatchHighLightArchive-Setup-${version}-x64.exe",
       "oneClick": false,
       "perMachine": false,
       "allowElevation": false,
@@ -73,15 +72,14 @@
         "ko_KR"
       ],
       "runAfterFinish": true
--   }
-+   },
-+   "publish": {
-+     "provider": "github",
-+     "owner": "nen725",
-+     "repo": "overwatch-highlight-archive",
-+     "releaseType": "release"
-+   }
-  }
+    },
+    "publish": {
+      "provider": "github",
+      "owner": "nen725",
+      "repo": "overwatch-highlight-archive",
+      "releaseType": "release"
+    }
+  },
   "homepage": "https://github.com/nen725/overwatch-highlight-archive",
   "repository": {
     "type": "git",
