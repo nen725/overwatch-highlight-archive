@@ -8,7 +8,7 @@
 - 首次运行自动匹配系统语言；手动选择保留。升级沿用既有档案，原视频不变。
 - 提供完整四语介绍与使用说明、校验值和源码。
 
-下载 `OverwatchHighlightArchive-Setup-1.2.0-x64.exe` 安装，或直接运行 `OverwatchHighlightArchive-Portable-1.2.0-x64.exe`。适用于 Windows 10/11 x64。程序未进行代码签名。详情见 [中文说明](../README.md)。
+下载 `OverwatchHighlightArchive-Setup-1.2.1-x64.exe` 安装，或直接运行 `OverwatchHighlightArchive-Portable-1.2.1-x64.exe`。适用于 Windows 10/11 x64。程序未进行代码签名。详情见 [中文说明](../README.md)。
 
 ## English
 
@@ -18,7 +18,7 @@
 - First launch follows the system language; manual choices persist. Existing archive data is reused and source videos remain unchanged.
 - Four-language introduction and instructions, checksums, and source code included.
 
-Install `OverwatchHighlightArchive-Setup-1.2.0-x64.exe`, or run `OverwatchHighlightArchive-Portable-1.2.0-x64.exe` directly. For Windows 10/11 x64. The app is not code signed. See the [English guide](../README.en.md).
+Install `OverwatchHighlightArchive-Setup-1.2.1-x64.exe`, or run `OverwatchHighlightArchive-Portable-1.2.1-x64.exe` directly. For Windows 10/11 x64. The app is not code signed. See the [English guide](../README.en.md).
 
 ## 日本語
 
@@ -28,7 +28,7 @@ Install `OverwatchHighlightArchive-Setup-1.2.0-x64.exe`, or run `OverwatchHighli
 - 初回はシステム言語を使用し、手動設定は保持されます。既存アーカイブを引き継ぎ、元動画は変更しません。
 - 4言語の紹介・操作説明、チェックサム、ソースコードを提供。
 
-`OverwatchHighlightArchive-Setup-1.2.0-x64.exe` でインストールするか、`OverwatchHighlightArchive-Portable-1.2.0-x64.exe` を直接実行してください。Windows 10/11 x64向け。コード署名はありません。[日本語ガイド](../README.ja.md)をご覧ください。
+`OverwatchHighlightArchive-Setup-1.2.1-x64.exe` でインストールするか、`OverwatchHighlightArchive-Portable-1.2.1-x64.exe` を直接実行してください。Windows 10/11 x64向け。コード署名はありません。[日本語ガイド](../README.ja.md)をご覧ください。
 
 ## 한국어
 
@@ -38,4 +38,4 @@ Install `OverwatchHighlightArchive-Setup-1.2.0-x64.exe`, or run `OverwatchHighli
 - 처음 실행할 때 시스템 언어를 사용하고 수동 설정은 유지합니다. 기존 아카이브를 이어서 사용하며 원본 영상은 변경하지 않습니다.
 - 4개 언어 소개·사용 설명, 체크섬, 소스 코드를 제공합니다.
 
-`OverwatchHighlightArchive-Setup-1.2.0-x64.exe`로 설치하거나 `OverwatchHighlightArchive-Portable-1.2.0-x64.exe`를 바로 실행하세요. Windows 10/11 x64용입니다. 코드 서명은 적용되지 않았습니다. [한국어 가이드](../README.ko.md)를 참고하세요.
+`OverwatchHighlightArchive-Setup-1.2.1-x64.exe`로 설치하거나 `OverwatchHighlightArchive-Portable-1.2.1-x64.exe`를 바로 실행하세요. Windows 10/11 x64용입니다. 코드 서명은 적용되지 않았습니다. [한국어 가이드](../README.ko.md)를 참고하세요.

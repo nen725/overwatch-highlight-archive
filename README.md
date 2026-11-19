@@ -12,8 +12,8 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| `OverwatchHighlightArchive-Setup-1.2.0-x64.exe` | 推荐。安装向导，可选安装目录，创建桌面和开始菜单快捷方式，支持卸载。 |
-| `OverwatchHighlightArchive-Portable-1.2.0-x64.exe` | 便携版，直接运行，无需安装。 |
+| `OverwatchHighlightArchive-Setup-1.2.1-x64.exe` | 推荐。安装向导，可选安装目录，创建桌面和开始菜单快捷方式，支持卸载。 |
+| `OverwatchHighlightArchive-Portable-1.2.1-x64.exe` | 便携版，直接运行，无需安装。 |
 | `SHA256SUMS.txt` | 下载文件的 SHA-256 校验值。 |
 
 支持 Windows 10/11 64 位；Node.js、FFmpeg 无需单独安装。安装向导提供简体中文、英语、日语和韩语。应用没有代码签名；下载来源和校验值可在本仓库 Release 中核对。

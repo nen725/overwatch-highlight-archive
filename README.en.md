@@ -12,8 +12,8 @@ Open **[the latest GitHub Release](https://github.com/nen725/overwatch-highlight
 
 | File | Purpose |
 | --- | --- |
-| `OverwatchHighlightArchive-Setup-1.2.0-x64.exe` | Recommended installer. Choose a destination, create desktop and Start menu shortcuts, and uninstall through Windows. |
-| `OverwatchHighlightArchive-Portable-1.2.0-x64.exe` | Run directly without installation. |
+| `OverwatchHighlightArchive-Setup-1.2.1-x64.exe` | Recommended installer. Choose a destination, create desktop and Start menu shortcuts, and uninstall through Windows. |
+| `OverwatchHighlightArchive-Portable-1.2.1-x64.exe` | Run directly without installation. |
 | `SHA256SUMS.txt` | SHA-256 checksums for the downloads. |
 
 For 64-bit Windows 10/11. Node.js and FFmpeg are included. The installer supports Simplified Chinese, English, Japanese, and Korean. The application is not code signed; verify its download source and checksum against the Release assets.

@@ -12,8 +12,8 @@
 
 | 파일 | 용도 |
 | --- | --- |
-| `OverwatchHighlightArchive-Setup-1.2.0-x64.exe` | 권장 설치 파일. 설치 위치 선택, 바탕 화면 및 시작 메뉴 바로 가기 생성, Windows에서 제거를 지원합니다. |
-| `OverwatchHighlightArchive-Portable-1.2.0-x64.exe` | 설치 없이 바로 실행하는 포터블 버전입니다. |
+| `OverwatchHighlightArchive-Setup-1.2.1-x64.exe` | 권장 설치 파일. 설치 위치 선택, 바탕 화면 및 시작 메뉴 바로 가기 생성, Windows에서 제거를 지원합니다. |
+| `OverwatchHighlightArchive-Portable-1.2.1-x64.exe` | 설치 없이 바로 실행하는 포터블 버전입니다. |
 | `SHA256SUMS.txt` | 다운로드 파일의 SHA-256 체크섬입니다. |
 
 64비트 Windows 10/11을 지원합니다. Node.js와 FFmpeg는 별도로 설치할 필요가 없습니다. 설치 프로그램은 중국어 간체, 영어, 일본어, 한국어를 지원합니다. 앱은 코드 서명이 되어 있지 않으며 Release 페이지에서 다운로드 출처와 체크섬을 확인할 수 있습니다.

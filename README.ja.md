@@ -12,8 +12,8 @@
 
 | ファイル | 用途 |
 | --- | --- |
-| `OverwatchHighlightArchive-Setup-1.2.0-x64.exe` | 推奨インストーラー。保存先の選択、デスクトップとスタートメニューへのショートカット作成、アンインストールに対応。 |
-| `OverwatchHighlightArchive-Portable-1.2.0-x64.exe` | インストール不要で直接実行するポータブル版。 |
+| `OverwatchHighlightArchive-Setup-1.2.1-x64.exe` | 推奨インストーラー。保存先の選択、デスクトップとスタートメニューへのショートカット作成、アンインストールに対応。 |
+| `OverwatchHighlightArchive-Portable-1.2.1-x64.exe` | インストール不要で直接実行するポータブル版。 |
 | `SHA256SUMS.txt` | ダウンロードファイルのSHA-256チェックサム。 |
 
 Windows 10/11の64ビット版に対応。Node.jsやFFmpegの個別インストールは不要です。インストーラーは簡体字中国語、英語、日本語、韓国語に対応します。アプリにコード署名はありません。配布元とチェックサムをReleaseページで確認できます。
